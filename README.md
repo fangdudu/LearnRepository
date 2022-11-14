@@ -1,2 +1,2 @@
 # LearnRepository
-学习用的仓库
+设计模式学习笔记
